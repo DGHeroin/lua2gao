@@ -1,0 +1,1 @@
+module github.com/DGHeroin/lua2go
